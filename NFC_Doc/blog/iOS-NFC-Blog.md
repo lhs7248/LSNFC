@@ -138,7 +138,7 @@
 	
 #### 六、其他
 
-* 示例的demo地址为:[LSNFC]()
+* 示例的demo地址: [LSNFC](https://github.com/lhs7248/LSNFC)，希望本文对你有所帮助，有颗小🌟🌟就更开心了
 * FeliCa 类型的可以参考：[TRETJapanNFCReader]()
 * 使用到的文档[iso7816-4-annex-e-examples-card-profiles](https://cardwerk.com/iso7816-4-annex-e-examples-card-profiles)、[智能卡手册](https://wiki.nfc.im/books/%E6%99%BA%E8%83%BD%E5%8D%A1%E6%89%8B%E5%86%8C/page/%E5%8C%97%E4%BA%AC%E5%B8%82%E6%94%BF%E5%85%AC%E4%BA%A4%E4%B8%80%E5%8D%A1%E9%80%9A%EF%BC%88bmac%EF%BC%89)
 
